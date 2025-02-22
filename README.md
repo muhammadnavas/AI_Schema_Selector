@@ -1,1 +1,1 @@
-# NL-SQL
+AI Schema Selector is a Natural Language to SQL (NL-to-SQL) pipeline that helps users query databases using plain English. The system uses Llama 3 for AI-powered schema selection, sentence-transformers for semantic similarity, and connects to a MySQL database to execute generated queries.
